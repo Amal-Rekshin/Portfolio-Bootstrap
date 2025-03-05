@@ -23,7 +23,6 @@ Portfolio-Bootstrap/
 ├── cer4.jpg         # Certification image 4
 ├── cer5.png         # Certification image 5
 ├── rek.jpg          # Profile image
-├── rek1.jpg         # Additional profile image
 └── README.md        # Documentation
 ```
 
